@@ -1,0 +1,8 @@
+/target/
+
+#IDE
+.vscode
+.idea
+
+#Config
+config.txt

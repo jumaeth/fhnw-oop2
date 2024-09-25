@@ -1,0 +1,3 @@
+%PDF- is the signature of PDF compatible files. Obviously, the
+signature alone does not guarantee that the file is actually a
+valid PDF file, as this text file shows.

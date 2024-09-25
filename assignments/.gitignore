@@ -1,0 +1,10 @@
+.vscode/
+.history/
+*.vsix
+
+.idea/
+*.iml
+
+.settings/
+.project
+.classpath
